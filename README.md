@@ -239,6 +239,11 @@ Ergebnis (von unten nach oben gelesen): **1101**
 
 Binärzahlen sind die Grundlage aller modernen Computertechnologien! Alles, was ein Computer macht – egal ob ein Bild anzeigen, ein Lied abspielen oder ein Spiel laufen lassen – basiert auf Binärzahlen.
 
+### Aufgaben
+
+Löse die Aufgaben auf Inf-Schule:
+- [Aufgaben auf Inf-Schule.de](https://inf-schule.de/information/darstellunginformation)
+
 ---
 
 ## 2. Daten und Codierung
