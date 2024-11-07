@@ -180,7 +180,3 @@ Nenne drei Automaten, die du im Alltag kennst, und erkläre kurz, wie sie funkti
 
 #### 📝 **Aufgabe 5.2:**  
 Recherchiere, wo KI im Alltag vorkommt. Finde drei Beispiele und schreibe, wie KI in diesen Anwendungen genutzt wird.
-
----
-
-Viel Erfolg beim Kurs! 🎉
