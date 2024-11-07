@@ -160,7 +160,7 @@ Finde drei verschiedene Dateiformate auf deinem Computer und notiere sie. Erklä
 
 ## 1.4 Das Internet
 
-!?[Wie funktioniert das Internet?]([https://www.youtube.com/watch?v=8pTEmbeENF4](https://youtu.be/fpqhjEtznVk))
+!?[Wie funktioniert das Internet?]([https://www.youtube.com/watch?v=8pTEmbeENF4](https://youtu.be/fpqhjEtznVk)
 
 Das **Internet** ist ein riesiges Netzwerk, das Millionen von Computern weltweit miteinander verbindet. Es wurde ursprünglich entwickelt, um Informationen auszutauschen, und ist heute eine wichtige Infrastruktur für den Zugang zu Informationen, für Kommunikation und für Unterhaltung.
 
