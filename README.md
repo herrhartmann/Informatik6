@@ -23,26 +23,29 @@ Hier ein paar anschauliche Beispiele:
 **Beispiel 1: Die Schule als Informatiksystem**
 In einer Schule gibt es viele Informationen, wie Stundenpläne, Noten oder Anwesenheitslisten. Früher war alles auf Papier, aber heute wird vieles mit Computern gemacht. Ein Schul-Informatiksystem hilft dabei, alle Informationen zu verwalten:
 
-Computer: Die Computer in der Schule speichern die Informationen.
-Programme: Ein spezielles Programm oder eine App hilft den Lehrern, Noten einzugeben oder Stundenpläne zu erstellen.
-Menschen: Lehrer, Schüler und Schulsekretärinnen nutzen das System. Sie geben Informationen ein oder lesen sie ab.
+- Computer: Die Computer in der Schule speichern die Informationen.
+- Programme: Ein spezielles Programm oder eine App hilft den Lehrern, Noten einzugeben oder Stundenpläne zu erstellen.
+- Menschen: Lehrer, Schüler und Schulsekretärinnen nutzen das System. Sie geben Informationen ein oder lesen sie ab.
+
 Hier arbeiten alle zusammen: Lehrer und Sekretärinnen tippen die Informationen in das System, die Computer speichern es, und die Programme machen es übersichtlich. Schüler können ihre Noten sehen, Lehrer wissen, wann sie Unterricht haben – das ist praktisch und spart Zeit.
 
 **Beispiel 2: Das Wettervorhersage-System**
 Ein anderes Beispiel ist ein Informatiksystem zur Wettervorhersage. Die Wettervorhersage benutzt ein großes Informatiksystem, um uns zu sagen, wie das Wetter morgen oder nächste Woche wird. Dieses System funktioniert so:
 
-Computer: Die Computer sammeln Daten über das Wetter von überall auf der Welt.
-Programme: Diese Daten werden mit speziellen Programmen analysiert, die das Wetter genau berechnen und vorhersagen können.
-Menschen: Wetterforscher und Meteorologen überwachen das System und interpretieren die Ergebnisse.
+- Computer: Die Computer sammeln Daten über das Wetter von überall auf der Welt.
+- Programme: Diese Daten werden mit speziellen Programmen analysiert, die das Wetter genau berechnen und vorhersagen können.
+- Menschen: Wetterforscher und Meteorologen überwachen das System und interpretieren die Ergebnisse.
+
 Dank dieses Informatiksystems können wir jeden Tag wissen, ob es regnen oder die Sonne scheinen wird.
 
 **Beispiel 3: Das Smartphone**
 
 Dein Handy ist auch ein kleines Informatiksystem. Es besteht aus:
 
-Computerteilen: Das ist die Technik, also der „Computer“ im Handy.
-Apps: Jede App ist ein kleines Programm, das bestimmte Aufgaben übernimmt, z. B. Nachrichten senden, Fotos machen oder Musik abspielen.
-Du: Als Nutzer gibst du Daten ein (z. B. schreibst eine Nachricht oder machst ein Foto) und bekommst Informationen zurück (z. B. Antworten oder Fotos).
+- Computerteilen: Das ist die Technik, also der „Computer“ im Handy.
+- Apps: Jede App ist ein kleines Programm, das bestimmte Aufgaben übernimmt, z. B. Nachrichten senden, Fotos machen oder Musik abspielen.
+- Du: Als Nutzer gibst du Daten ein (z. B. schreibst eine Nachricht oder machst ein Foto) und bekommst Informationen zurück (z. B. Antworten oder Fotos).
+
 Dein Handy speichert deine Kontakte, erinnert dich an Termine und zeigt dir Wetter und Nachrichten – all das ist möglich, weil es als Informatiksystem funktioniert.
 
 
