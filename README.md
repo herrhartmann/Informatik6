@@ -41,7 +41,7 @@ Erstelle eine sinnvolle Ordnerstruktur auf deinem Computer. Zum Beispiel: "Schul
 
 ### 1.3 Dateiformate
 
-Dateien haben verschiedene **Formate**, die festlegen, wie die Daten in der Datei gespeichert werden. Das Dateiformat wird oft durch die Dateiendung (z. B. `.txt`, `.jpg`, `.mp3`) angezeigt und bestimmt, welche Programme die Datei öffnen können.
+Dateien haben verschiedene **Formate**, die festlegen, wie die Daten in der Datei gespeichert werden. Das Dateiformat wird oft durch die Dateiendung (z. B. `.txt`, `.odt`, `.docx`, `.png`, `.jpg`, `.webp`, `.mp3`, `.mp4`) angezeigt und bestimmt, welche Programme die Datei öffnen können.
 
 Hier sind einige gängige Dateiformate:
 
