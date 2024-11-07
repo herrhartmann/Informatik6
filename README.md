@@ -265,18 +265,18 @@ In der Informatik nutzen wir **Codes**, um Informationen und Daten in einer Form
 
 --- 
 
-# Einführung ins Winkeralphabet
+#### Einführung ins Winkeralphabet
 
 Das **Winkeralphabet** ist eine Methode der visuellen Kommunikation, die zur Übertragung von Nachrichten über größere Distanzen genutzt wird. Ursprünglich fand es Anwendung in der Schifffahrt und im Militär. Beim Winkeralphabet hält eine Person zwei Fahnen und zeigt diese in bestimmten Positionen, um verschiedene Buchstaben zu signalisieren. Jede Position der Fahnen repräsentiert dabei einen bestimmten Buchstaben des Alphabets.
 
-## Funktionsweise des Winkeralphabets
+#### Funktionsweise des Winkeralphabets
 
 - Es gibt **acht Grundpositionen** für jede Hand.
 - Jede Position stellt eine Kombination dar, die einem Buchstaben entspricht.
 - Die Winkpositionen sind in einem 45-Grad-Winkel verteilt.
 - Um eine Nachricht zu senden, bewegt die Person die Fahnen schnell in die Positionen, die die Buchstaben der Nachricht repräsentieren.
 
-### Beispielhafte Winkepositionen für einige Buchstaben:
+#### Beispielhafte Winkepositionen für einige Buchstaben:
 
 - **Position für den Buchstaben A**: Linke Hand oben links, rechte Hand oben rechts
 - **Position für den Buchstaben B**: Linke Hand direkt links, rechte Hand direkt rechts
