@@ -141,7 +141,7 @@ Eine gute Dateiverwaltung hilft dir, schnell die Dateien zu finden, die du brauc
 Erstelle eine sinnvolle Ordnerstruktur auf deinem Computer. Zum Beispiel: "Schule" > "Informatik" > "Projekte". Lege eine neue Datei an und speichere sie in diesem Ordner. Schreibe auf, wie deine Ordner heißen und warum du diese Struktur gewählt hast.
 
 
-### 1.3 Dateiformate
+## 1.3 Dateiformate
 
 Dateien haben verschiedene **Formate**, die festlegen, wie die Daten in der Datei gespeichert werden. Das Dateiformat wird oft durch die Dateiendung (z. B. `.txt`, `.odt`, `.docx`, `.png`, `.jpg`, `.webp`, `.mp3`, `.mp4`) angezeigt und bestimmt, welche Programme die Datei öffnen können.
 
