@@ -88,7 +88,7 @@ Beschreibe einen Alltagsgegenstand, der das EVA-Prinzip verwendet (z. B. eine Ka
 
 ---
 
-### Binärzahlen einfach erklärt
+### 1.6 Binärzahlen einfach erklärt
 
 Binärzahlen sind ein Zahlensystem, das nur **zwei** Ziffern verwendet: **0** und **1**. Während wir im Alltag das **Dezimalsystem** (mit den Ziffern 0 bis 9) nutzen, arbeiten Computer und elektronische Geräte mit Binärzahlen, weil sie einfacher für Maschinen zu verarbeiten sind.
 
