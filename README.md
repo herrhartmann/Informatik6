@@ -51,7 +51,10 @@ Dein Handy speichert deine Kontakte, erinnert dich an Termine und zeigt dir Wett
 
 ### Die Bauteile eines Computers
 
-Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten. Hier sind die wichtigsten:
+Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten. 
+
+![Hardware Komponenten](hardware_komponenten.jpg)
+
 
 1. **Prozessor (CPU)**  
    Der Prozessor, auch CPU genannt, ist das "Gehirn" des Computers. Er führt alle Berechnungen und Aufgaben aus, die ein Programm ihm vorgibt. Je schneller der Prozessor, desto schneller kann der Computer arbeiten.
