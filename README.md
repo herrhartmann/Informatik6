@@ -59,19 +59,21 @@ Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten.
 1. **Prozessor (CPU)**  
    Der Prozessor, auch CPU genannt, ist das "Gehirn" des Computers. Er führt alle Berechnungen und Aufgaben aus, die ein Programm ihm vorgibt. Je schneller der Prozessor, desto schneller kann der Computer arbeiten.
 
-2. **Arbeitsspeicher (RAM)**  
+![CPU](https://upload.wikimedia.org/wikipedia/commons/3/32/Cpu-processor.jpg)
+
+3. **Arbeitsspeicher (RAM)**  
    Der Arbeitsspeicher ist der Platz, an dem der Computer Daten vorübergehend speichert, die er gerade verwendet. Je mehr RAM, desto mehr Daten kann der Computer gleichzeitig verarbeiten.
 
-3. **Festplatte oder SSD**  
+4. **Festplatte oder SSD**  
    Die Festplatte oder SSD ist der Langzeitspeicher des Computers. Hier werden Dateien, Programme und das Betriebssystem gespeichert. Ohne Speicher könnte der Computer keine Daten behalten, wenn er ausgeschaltet wird.
 
-4. **Grafikkarte**  
+5. **Grafikkarte**  
    Die Grafikkarte ist für die Anzeige von Bildern und Videos verantwortlich. Sie berechnet, was auf dem Bildschirm zu sehen ist. Besonders bei Spielen oder Videos ist eine gute Grafikkarte wichtig.
 
-5. **Eingabegeräte**  
+6. **Eingabegeräte**  
    Dazu gehören Geräte wie die **Tastatur** und die **Maus**. Mit ihnen gibst du dem Computer Anweisungen, zum Beispiel beim Tippen oder Klicken.
 
-6. **Ausgabegeräte**  
+7. **Ausgabegeräte**  
    Bildschirm und Drucker sind typische Ausgabegeräte. Sie zeigen dir die Ergebnisse der Arbeit des Computers.
 
 ### Hardware und Software
