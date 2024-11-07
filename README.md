@@ -130,8 +130,6 @@ Gelöschte Dateien können nicht immer wiederhergestellt werden. Überlege also 
 
 Eine gute Dateiverwaltung hilft dir, schnell die Dateien zu finden, die du brauchst. Sie spart Zeit und macht deinen Computer übersichtlicher. Das ist besonders praktisch für die Schule oder die Arbeit, wo du oft mit vielen verschiedenen Dateien zu tun hast.
 
-**Zusammengefasst**: Die Verwaltung von Dateien bedeutet, dass du Dateien organisierst, umbenennst, kopierst, verschiebst und manchmal auch löschst, damit du schnell und effizient arbeiten kannst!
-
 #### 📝 **Aufgabe 1.2:**  
 Erstelle eine sinnvolle Ordnerstruktur auf deinem Computer. Zum Beispiel: "Schule" > "Informatik" > "Projekte". Lege eine neue Datei an und speichere sie in diesem Ordner. Schreibe auf, wie deine Ordner heißen und warum du diese Struktur gewählt hast.
 
