@@ -18,7 +18,9 @@ Ein Computer ist das Herzstück der Informatik und besteht aus zwei Hauptkompone
 Die Hardware stellt die notwendigen Ressourcen zur Verfügung, damit die Software arbeiten kann. Software wiederum steuert die Hardware und ermöglicht es uns, mit dem Computer zu arbeiten.
 
 #### 📝 **Aufgabe 1.1:**  
-Finde heraus, welche Hardwarekomponenten in deinem Computer verbaut sind. Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher).
+Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher).
+
+
 
 ---
 
