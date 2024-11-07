@@ -62,9 +62,9 @@ Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Au
 Informatiksysteme sind heute überall: in Smartphones, Laptops, Tablets und sogar in Autos oder Kühlschränken. Sie helfen uns im Alltag, Daten zu speichern, zu kommunizieren und Aufgaben zu automatisieren. Ohne Informatiksysteme wäre die Welt, wie wir sie heute kennen, nicht möglich.
 
 #### 📝 **Aufgabe 1.1:**  
-Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher).
+Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher). Löse danach das multiple-choice Quiz.
 
-#### **Aufgabe 1.2**
+**Quiz**
 
 Der Begriff Hardware beschreibt .... 
 - [[ ]] alles, was man nicht am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur, gehört zur Hardware ...
