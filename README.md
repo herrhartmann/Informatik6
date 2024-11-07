@@ -12,11 +12,11 @@ Willkommen zum Onlinekurs für Informatik in der 6. Klasse! In diesem Kurs lerns
 
 Ein **Computer** ist viel mehr als nur ein Gerät zum Spielen oder Schreiben von Texten. In der Informatik betrachten wir den Computer als ein **Informatiksystem**, das Daten verarbeiten, speichern und weitergeben kann. Lass uns anschauen, wie so ein System funktioniert und aus welchen Teilen es besteht.
 
-## Was ist ein Informatiksystem?
+### Was ist ein Informatiksystem?
 
 Ein **Informatiksystem** ist eine Kombination aus **Hardware** (den physischen Teilen) und **Software** (den Programmen). Zusammen ermöglichen sie dem Computer, verschiedene Aufgaben zu erledigen, wie Berechnungen durchzuführen, Musik abzuspielen oder Spiele zu starten.
 
-### Die Bauteile eines Computers
+#### Die Bauteile eines Computers
 
 Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten. Hier sind die wichtigsten:
 
@@ -43,7 +43,7 @@ Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten. Hier sind
 - **Hardware**: Alles, was man am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur, gehört zur Hardware.
 - **Software**: Programme und Daten, die auf der Hardware laufen, nennt man Software. Dazu zählen das Betriebssystem (wie Windows oder macOS) und alle Programme (wie Spiele, Textverarbeitungsprogramme oder der Webbrowser).
 
-## Wie funktionieren Informatiksysteme?
+### Wie funktionieren Informatiksysteme?
 
 Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Ausgabe**:
 
@@ -57,14 +57,14 @@ Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Au
 - **Verarbeitung**: Der Prozessor und die Grafikkarte berechnen, wie die Figur sich bewegt und was im Spiel passieren soll.
 - **Ausgabe**: Die Grafikkarte zeigt das Ergebnis der Berechnung auf dem Bildschirm, damit du die Bewegung deiner Figur siehst.
 
-## Warum sind Informatiksysteme wichtig?
+### Warum sind Informatiksysteme wichtig?
 
 Informatiksysteme sind heute überall: in Smartphones, Laptops, Tablets und sogar in Autos oder Kühlschränken. Sie helfen uns im Alltag, Daten zu speichern, zu kommunizieren und Aufgaben zu automatisieren. Ohne Informatiksysteme wäre die Welt, wie wir sie heute kennen, nicht möglich.
 
 #### 📝 **Aufgabe 1.1:**  
 Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher). Löse danach das multiple-choice Quiz.
 
-**Quiz**
+### **Quiz**
 
 Der Begriff Hardware beschreibt .... 
 - [[ ]] alles, was man nicht am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur, gehört zur Hardware ...
@@ -94,7 +94,7 @@ Eine **Datei** ist ein digitaler Behälter für Daten. Jedes Dokument, Foto oder
 
 Damit du deine Dateien leicht findest, solltest du sie in **Ordnern** organisieren. Ein Ordner ist wie ein digitales Ablagefach, in dem du ähnliche Dateien zusammen speichern kannst.
 
-### Beispiel für eine Ordnerstruktur
+**Beispiel für eine Ordnerstruktur**
 
 Stell dir vor, du erstellst Ordner für die Schule:
 
@@ -110,7 +110,7 @@ Stell dir vor, du erstellst Ordner für die Schule:
 
 Mit dieser Struktur findest du schnell deine Dateien, weil du weißt, in welchem Ordner sie gespeichert sind.
 
-## Dateien umbenennen, kopieren und verschieben
+### Dateien umbenennen, kopieren und verschieben
 
 Um Dateien gut zu verwalten, kannst du sie **umbenennen**, **kopieren** und **verschieben**.
 
@@ -118,31 +118,31 @@ Um Dateien gut zu verwalten, kannst du sie **umbenennen**, **kopieren** und **ve
 - **Kopieren**: Wenn du eine Datei an einem anderen Ort brauchst, aber das Original behalten möchtest, kannst du sie kopieren.
 - **Verschieben**: Verschieben bedeutet, die Datei in einen anderen Ordner zu legen, ohne eine Kopie zu erstellen.
 
-## Dateien löschen
+### Dateien löschen
 
 Wenn du eine Datei nicht mehr brauchst, kannst du sie **löschen**. Gelöschte Dateien werden oft zuerst in den Papierkorb verschoben. Dort bleiben sie, bis du den Papierkorb leerst – dann sind sie wirklich gelöscht.
 
-### Achtung beim Löschen!
+**Achtung beim Löschen!**
 
 Gelöschte Dateien können nicht immer wiederhergestellt werden. Überlege also gut, bevor du eine Datei löschst, oder sichere sie vorher.
 
-## Wichtige Tipps für die Dateiverwaltung
+### Wichtige Tipps für die Dateiverwaltung
 
 1. **Sinnvolle Namen verwenden**: Gebe deinen Dateien Namen, die den Inhalt beschreiben.
 2. **Ordnerstruktur nutzen**: Lege eine klare Ordnerstruktur an, die du verstehst und leicht durchsuchen kannst.
 3. **Regelmäßig aufräumen**: Lösche alte oder unnötige Dateien, um Platz zu sparen.
 4. **Dateien sichern (Backup)**: Speichere wichtige Dateien auf einem USB-Stick, einer externen Festplatte oder in der Cloud, um sie bei Verlust wiederherstellen zu können.
 
-## Warum ist die Verwaltung von Dateien wichtig?
+### Warum ist die Verwaltung von Dateien wichtig?
 
 Eine gute Dateiverwaltung hilft dir, schnell die Dateien zu finden, die du brauchst. Sie spart Zeit und macht deinen Computer übersichtlicher. Das ist besonders praktisch für die Schule oder die Arbeit, wo du oft mit vielen verschiedenen Dateien zu tun hast.
 
-#### 📝 **Aufgabe 1.2:**  
+#### 📝 **Aufgabe**  
 Erstelle eine sinnvolle Ordnerstruktur auf deinem Computer. Zum Beispiel: "Schule" > "Informatik" > "Projekte". Lege eine neue Datei an und speichere sie in diesem Ordner. Schreibe auf, wie deine Ordner heißen und warum du diese Struktur gewählt hast.
 
 ---
 
-### 1.3 Dateiformate
+## 1.3 Dateiformate
 
 Dateien haben verschiedene **Formate**, die festlegen, wie die Daten in der Datei gespeichert werden. Das Dateiformat wird oft durch die Dateiendung (z. B. `.txt`, `.odt`, `.docx`, `.png`, `.jpg`, `.webp`, `.mp3`, `.mp4`) angezeigt und bestimmt, welche Programme die Datei öffnen können.
 
@@ -159,7 +159,7 @@ Finde drei verschiedene Dateiformate auf deinem Computer und notiere sie. Erklä
 
 ---
 
-### 1.4 Das Internet
+## 1.4 Das Internet
 
 Das **Internet** ist ein riesiges Netzwerk, das Millionen von Computern weltweit miteinander verbindet. Es wurde ursprünglich entwickelt, um Informationen auszutauschen, und ist heute eine wichtige Infrastruktur für den Zugang zu Informationen, für Kommunikation und für Unterhaltung.
 
@@ -176,7 +176,7 @@ Recherchiere, wie das Internet funktioniert. Schreibe eine kurze Zusammenfassung
 
 ---
 
-### 1.5 Das EVA-Prinzip
+## 1.5 Das EVA-Prinzip
 
 Das **EVA-Prinzip** beschreibt die grundlegende Arbeitsweise eines Computers und steht für **Eingabe - Verarbeitung - Ausgabe**.
 
