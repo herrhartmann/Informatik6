@@ -19,6 +19,7 @@ Ein **Informatiksystem** ist eine Kombination aus **Hardware** (den physischen T
 Stell dir ein Informatiksystem wie eine Art „Team“ vor, bei dem verschiedene „Spieler“ (Computer, Programme und Menschen) zusammenarbeiten. Jeder Spieler hat seine eigene Rolle und Aufgabe, und nur wenn alle gut zusammenarbeiten, funktioniert das System richtig.
 
 **Beispiel 1: Die Schule als Informatiksystem**
+
 In einer Schule gibt es viele Informationen, wie Stundenpläne, Noten oder Anwesenheitslisten. Früher war alles auf Papier, aber heute wird vieles mit Computern gemacht. Ein Schul-Informatiksystem hilft dabei, alle Informationen zu verwalten:
 
 - Computer: Die Computer in der Schule speichern die Informationen.
@@ -28,6 +29,7 @@ In einer Schule gibt es viele Informationen, wie Stundenpläne, Noten oder Anwes
 Hier arbeiten alle zusammen: Lehrer und Sekretärinnen tippen die Informationen in das System, die Computer speichern es, und die Programme machen es übersichtlich. Schüler können ihre Noten sehen, Lehrer wissen, wann sie Unterricht haben – das ist praktisch und spart Zeit.
 
 **Beispiel 2: Das Wettervorhersage-System**
+
 Ein anderes Beispiel ist ein Informatiksystem zur Wettervorhersage. Die Wettervorhersage benutzt ein großes Informatiksystem, um uns zu sagen, wie das Wetter morgen oder nächste Woche wird. Dieses System funktioniert so:
 
 - Computer: Die Computer sammeln Daten über das Wetter von überall auf der Welt.
