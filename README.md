@@ -138,4 +138,49 @@ Scratch ist eine visuelle Programmiersprache, die das Programmieren auf spieleri
 
 Erstelle ein Fangspiel in Scratch, in dem der Spieler eine Figur steuert, um Punkte zu sammeln, wenn sie ein bestimmtes Objekt berührt.
 
-#### 📝 **Aufgabe
+#### 📝 **Aufgabe 3.3:**  
+Erstelle ein einfaches Fangspiel in Scratch. Die Figur soll sich steuern lassen, und jedes Mal, wenn sie ein Objekt berührt, soll ein Punkt gezählt werden.
+
+---
+
+## 4. Programmieren II
+
+### 4.1 Entscheidungen
+
+Entscheidungen werden in der Programmierung durch **wenn-dann-Bedingungen** getroffen. So kann das Programm auf verschiedene Eingaben oder Situationen unterschiedlich reagieren.
+
+#### 📝 **Aufgabe 4.1:**  
+Erstelle ein Scratch-Programm, in dem eine Figur eine Entscheidung trifft. Zum Beispiel: "Wenn die Figur an den Rand stößt, dann soll sie umkehren."
+
+---
+
+### 4.2 Bedingte Wiederholungen
+
+**Schleifen** ermöglichen, dass Anweisungen wiederholt ausgeführt werden, solange eine bestimmte Bedingung erfüllt ist.
+
+#### 📝 **Aufgabe 4.2:**  
+Erstelle eine Schleife in Scratch, in der eine Figur so lange bewegt wird, bis sie ein bestimmtes Ziel erreicht.
+
+---
+
+## 5. Automatisierung und Künstliche Intelligenz
+
+### 5.1 Was sind Automaten?
+
+Ein **Automat** ist ein System, das bestimmte Aufgaben selbstständig erledigt, oft nach einem festen Programm oder Plan. Beispiele sind Ampelanlagen oder Waschmaschinen.
+
+#### 📝 **Aufgabe 5.1:**  
+Nenne drei Automaten, die du im Alltag kennst, und erkläre kurz, wie sie funktionieren und welche Aufgaben sie automatisch ausführen.
+
+---
+
+### 5.2 Künstliche Intelligenz
+
+**Künstliche Intelligenz (KI)** ermöglicht es Maschinen, Aufgaben zu übernehmen, die normalerweise menschliches Denken erfordern, wie z. B. Sprache erkennen, Bilder deuten oder Entscheidungen treffen.
+
+#### 📝 **Aufgabe 5.2:**  
+Recherchiere, wo KI im Alltag vorkommt. Finde drei Beispiele und schreibe, wie KI in diesen Anwendungen genutzt wird.
+
+---
+
+Viel Erfolg beim Kurs! 🎉
