@@ -16,7 +16,7 @@ Ein **Computer** ist viel mehr als nur ein Gerät zum Spielen oder Schreiben von
 
 Ein **Informatiksystem** ist eine Kombination aus **Hardware** (den physischen Teilen) und **Software** (den Programmen). Zusammen ermöglichen sie dem Computer, verschiedene Aufgaben zu erledigen, wie Berechnungen durchzuführen, Musik abzuspielen oder Spiele zu starten.
 
-#### Die Bauteile eines Computers
+### Die Bauteile eines Computers
 
 Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten. Hier sind die wichtigsten:
 
@@ -61,7 +61,7 @@ Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Au
 
 Informatiksysteme sind heute überall: in Smartphones, Laptops, Tablets und sogar in Autos oder Kühlschränken. Sie helfen uns im Alltag, Daten zu speichern, zu kommunizieren und Aufgaben zu automatisieren. Ohne Informatiksysteme wäre die Welt, wie wir sie heute kennen, nicht möglich.
 
-#### 📝 **Aufgabe 1.1:**  
+### 📝 **Aufgabe**  
 Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher). Löse danach das multiple-choice Quiz.
 
 ### **Quiz**
@@ -73,13 +73,13 @@ Der Begriff Hardware beschreibt ....
 
 ---
 
-## 1.2 Verwaltung von Dateien
+## 1.1 Verwaltung von Dateien
 
 > **Info:** Dateien sind digitale Sammlungen von Informationen, die wir auf Computern speichern. Alles, was du am Computer erstellst oder speicherst – seien es Texte, Bilder oder Musik – wird als Datei abgelegt.
 
 Die Verwaltung von Dateien ist ein wichtiger Teil der Arbeit am Computer. Dateien enthalten alle Informationen, die du speicherst: Texte, Bilder, Videos, Musik und vieles mehr. Um die Übersicht zu behalten, ist es wichtig, Dateien gut zu organisieren und zu verwalten.
 
-### Was sind Dateien?
+## Was sind Dateien?
 
 Eine **Datei** ist ein digitaler Behälter für Daten. Jedes Dokument, Foto oder Video, das du auf deinem Computer speicherst, ist eine Datei. Dateien haben immer einen **Namen** und eine **Erweiterung** (z. B. `.txt`, `.jpg` oder `.mp3`), die dir und dem Computer sagt, um welchen Dateityp es sich handelt.
 
@@ -90,7 +90,7 @@ Eine **Datei** ist ein digitaler Behälter für Daten. Jedes Dokument, Foto oder
 - **Audiodateien** (.mp3, .wav) – Für Musik oder Sprachaufnahmen.
 - **Videodateien** (.mp4, .avi) – Für Filme und Videos.
 
-## Ordner und Dateien organisieren
+### Ordner und Dateien organisieren
 
 Damit du deine Dateien leicht findest, solltest du sie in **Ordnern** organisieren. Ein Ordner ist wie ein digitales Ablagefach, in dem du ähnliche Dateien zusammen speichern kannst.
 
@@ -137,12 +137,11 @@ Gelöschte Dateien können nicht immer wiederhergestellt werden. Überlege also 
 
 Eine gute Dateiverwaltung hilft dir, schnell die Dateien zu finden, die du brauchst. Sie spart Zeit und macht deinen Computer übersichtlicher. Das ist besonders praktisch für die Schule oder die Arbeit, wo du oft mit vielen verschiedenen Dateien zu tun hast.
 
-#### 📝 **Aufgabe**  
+### 📝 **Aufgabe**  
 Erstelle eine sinnvolle Ordnerstruktur auf deinem Computer. Zum Beispiel: "Schule" > "Informatik" > "Projekte". Lege eine neue Datei an und speichere sie in diesem Ordner. Schreibe auf, wie deine Ordner heißen und warum du diese Struktur gewählt hast.
 
----
 
-## 1.3 Dateiformate
+### 1.3 Dateiformate
 
 Dateien haben verschiedene **Formate**, die festlegen, wie die Daten in der Datei gespeichert werden. Das Dateiformat wird oft durch die Dateiendung (z. B. `.txt`, `.odt`, `.docx`, `.png`, `.jpg`, `.webp`, `.mp3`, `.mp4`) angezeigt und bestimmt, welche Programme die Datei öffnen können.
 
@@ -154,7 +153,7 @@ Hier sind einige gängige Dateiformate:
 
 Ein Bild wird anders gespeichert und verarbeitet als ein Text oder eine Musikdatei. Deshalb können wir Dateien nicht beliebig in anderen Programmen öffnen – ein Musikprogramm wird z. B. eine Bilddatei nicht abspielen können.
 
-#### 📝 **Aufgabe 1.3:**  
+### 📝 **Aufgabe**  
 Finde drei verschiedene Dateiformate auf deinem Computer und notiere sie. Erkläre, wofür diese Formate verwendet werden und welche Programme sie öffnen können.
 
 ---
@@ -171,7 +170,7 @@ Das Internet besteht aus verschiedenen **Diensten**, wie z. B.:
 
 > **Erklärung:** Das Internet basiert auf einer Technologie namens TCP/IP (Transmission Control Protocol / Internet Protocol), die dafür sorgt, dass Datenpakete sicher und schnell von einem Computer zum anderen übertragen werden.
 
-#### 📝 **Aufgabe 1.4:**  
+### 📝 **Aufgabe**  
 Recherchiere, wie das Internet funktioniert. Schreibe eine kurze Zusammenfassung in deinen eigenen Worten. Tipp: Versuche zu erklären, was ein Router ist und welche Rolle er im Internet spielt.
 
 ---
@@ -191,7 +190,7 @@ Beschreibe einen Alltagsgegenstand, der das EVA-Prinzip verwendet (z. B. eine Ka
 
 ---
 
-### 1.6 Binärzahlen einfach erklärt
+## 1.6 Binärzahlen einfach erklärt
 
 Binärzahlen sind ein Zahlensystem, das nur **zwei** Ziffern verwendet: **0** und **1**. Während wir im Alltag das **Dezimalsystem** (mit den Ziffern 0 bis 9) nutzen, arbeiten Computer und elektronische Geräte mit Binärzahlen, weil sie einfacher für Maschinen zu verarbeiten sind.
 
@@ -248,14 +247,12 @@ Löse die Aufgaben auf Inf-Schule:
 
 ## 2. Daten und Codierung
 
-### 2.1 Codes und Daten
-
 In der Informatik nutzen wir **Codes**, um Informationen und Daten in einer Form darzustellen, die der Computer verarbeiten kann. Der einfachste Code ist das **binäre Zahlensystem**, das nur die Zahlen 0 und 1 verwendet. Im binären System werden alle Daten als Kombinationen dieser beiden Zahlen dargestellt – z. B. Buchstaben, Zahlen, Bilder und sogar Töne.
 
 > **Wusstest du?** Der Computer kann mit den Werten 0 und 1 arbeiten, weil er aus vielen winzigen elektrischen Schaltern besteht, die nur "an" (1) oder "aus" (0) sein können.
 ---
 
-### 2.2 Winkeralphabet, Morsecode, Caesar-Verschlüsselung
+### 2.1 Winkeralphabet, Morsecode, Caesar-Verschlüsselung
 
 **Winkeralphabet, Morsecode und Caesar-Verschlüsselung** sind einfache Arten, Informationen in eine andere Form zu bringen.
 
@@ -265,7 +262,7 @@ In der Informatik nutzen wir **Codes**, um Informationen und Daten in einer Form
 
 --- 
 
-#### Einführung ins Winkeralphabet
+### 2.2 Einführung ins Winkeralphabet
 
 Das **Winkeralphabet** ist eine Methode der visuellen Kommunikation, die zur Übertragung von Nachrichten über größere Distanzen genutzt wird. Ursprünglich fand es Anwendung in der Schifffahrt und im Militär. Beim Winkeralphabet hält eine Person zwei Fahnen und zeigt diese in bestimmten Positionen, um verschiedene Buchstaben zu signalisieren. Jede Position der Fahnen repräsentiert dabei einen bestimmten Buchstaben des Alphabets.
 
@@ -284,18 +281,14 @@ Das **Winkeralphabet** ist eine Methode der visuellen Kommunikation, die zur Üb
 
 ---
 
-## Quizaufgabe im Winkeralphabet (LiaScript)
-
-Teste dein Wissen über das Winkeralphabet mit der folgenden Quizfrage.
-
-#### Quiz zum Winkeralphabet
+### Quiz
 
 Wie würdest du den Buchstaben "S" mit dem Winkeralphabet darstellen?
 
-1. [ ] Linke Hand unten, rechte Hand oben
-2. [ ] Linke Hand links, rechte Hand rechts
-3. [x] Linke Hand unten links, rechte Hand oben rechts
-4. [ ] Linke Hand oben links, rechte Hand unten rechts
+1. [[ ]] Linke Hand unten, rechte Hand oben
+2. [[ ]] Linke Hand links, rechte Hand rechts
+3. [[x]] Linke Hand unten links, rechte Hand oben rechts
+4. [[ ]]Linke Hand oben links, rechte Hand unten rechts
 
 ---
 
@@ -307,7 +300,7 @@ Ein **Algorithmus** ist eine Schritt-für-Schritt-Anleitung, um ein Problem zu l
 
 > **Beispiel für einen Algorithmus:** Wenn du einen Kuchen backst, folgst du einem Rezept, das dir genau sagt, welche Schritte du in welcher Reihenfolge ausführen musst.
 
-#### 📝 **Aufgabe 3.1:**  
+### 📝 **Aufgabe**  
 Schreibe einen Algorithmus, um ein Butterbrot zu schmieren. Verwende dabei klare und logische Schritte und achte darauf, dass alle Anweisungen genau aufeinander folgen.
 
 ---
@@ -316,7 +309,7 @@ Schreibe einen Algorithmus, um ein Butterbrot zu schmieren. Verwende dabei klare
 
 Scratch ist eine visuelle Programmiersprache, die das Programmieren auf spielerische Weise näherbringt. In Scratch fügst du verschiedene **Blöcke** zusammen, um Figuren zu steuern, Animationen zu erstellen und einfache Programme zu entwickeln.
 
-#### 📝 **Aufgabe 3.2:**  
+### 📝 **Aufgabe**  
 Öffne Scratch und erstelle ein kleines Programm, in dem eine Figur sich über den Bildschirm bewegt und dabei ein Geräusch abspielt. Experimentiere mit den Blöcken für Bewegung und Klang.
 
 ---
@@ -325,7 +318,7 @@ Scratch ist eine visuelle Programmiersprache, die das Programmieren auf spieleri
 
 Erstelle ein Fangspiel in Scratch, in dem der Spieler eine Figur steuert, um Punkte zu sammeln, wenn sie ein bestimmtes Objekt berührt.
 
-#### 📝 **Aufgabe 3.3:**  
+### 📝 **Aufgabe**  
 Erstelle ein einfaches Fangspiel in Scratch. Die Figur soll sich steuern lassen, und jedes Mal, wenn sie ein Objekt berührt, soll ein Punkt gezählt werden.
 
 ---
@@ -336,7 +329,7 @@ Erstelle ein einfaches Fangspiel in Scratch. Die Figur soll sich steuern lassen,
 
 Entscheidungen werden in der Programmierung durch **wenn-dann-Bedingungen** getroffen. So kann das Programm auf verschiedene Eingaben oder Situationen unterschiedlich reagieren.
 
-#### 📝 **Aufgabe 4.1:**  
+### 📝 **Aufgabe**  
 Erstelle ein Scratch-Programm, in dem eine Figur eine Entscheidung trifft. Zum Beispiel: "Wenn die Figur an den Rand stößt, dann soll sie umkehren."
 
 ---
@@ -345,7 +338,7 @@ Erstelle ein Scratch-Programm, in dem eine Figur eine Entscheidung trifft. Zum B
 
 **Schleifen** ermöglichen, dass Anweisungen wiederholt ausgeführt werden, solange eine bestimmte Bedingung erfüllt ist.
 
-#### 📝 **Aufgabe 4.2:**  
+### 📝 **Aufgabe**  
 Erstelle eine Schleife in Scratch, in der eine Figur so lange bewegt wird, bis sie ein bestimmtes Ziel erreicht.
 
 ---
@@ -356,7 +349,7 @@ Erstelle eine Schleife in Scratch, in der eine Figur so lange bewegt wird, bis s
 
 Ein **Automat** ist ein System, das bestimmte Aufgaben selbstständig erledigt, oft nach einem festen Programm oder Plan. Beispiele sind Ampelanlagen oder Waschmaschinen.
 
-#### 📝 **Aufgabe 5.1:**  
+### 📝 **Aufgabe 5.1:**  
 Nenne drei Automaten, die du im Alltag kennst, und erkläre kurz, wie sie funktionieren und welche Aufgaben sie automatisch ausführen.
 
 ---
@@ -365,5 +358,5 @@ Nenne drei Automaten, die du im Alltag kennst, und erkläre kurz, wie sie funkti
 
 **Künstliche Intelligenz (KI)** ermöglicht es Maschinen, Aufgaben zu übernehmen, die normalerweise menschliches Denken erfordern, wie z. B. Sprache erkennen, Bilder deuten oder Entscheidungen treffen.
 
-#### 📝 **Aufgabe 5.2:**  
+### 📝 **Aufgabe 5.2:**  
 Recherchiere, wo KI im Alltag vorkommt. Finde drei Beispiele und schreibe, wie KI in diesen Anwendungen genutzt wird.
