@@ -64,6 +64,13 @@ Informatiksysteme sind heute überall: in Smartphones, Laptops, Tablets und soga
 #### 📝 **Aufgabe 1.1:**  
 Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher).
 
+#### **Aufgabe 1.2**
+
+Der Begriff Hardware beschreibt .... 
+- [[ ]] alles, was man nicht am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur, gehört zur Hardware.
+- [[X]] alles, was man am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur ...
+- [[ ]] Programme und Daten, die auf der Hardware laufen, nennt man Software. Dazu zählen das Betriebssystem (wie Windows oder macOS) und alle Programme (wie Spiele, Textverarbeitungsprogramme oder der Webbrowser).
+
 ---
 
 ## 1.2 Verwaltung von Dateien
