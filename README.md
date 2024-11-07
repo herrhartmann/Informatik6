@@ -253,10 +253,6 @@ Löse die Aufgaben auf Inf-Schule:
 In der Informatik nutzen wir **Codes**, um Informationen und Daten in einer Form darzustellen, die der Computer verarbeiten kann. Der einfachste Code ist das **binäre Zahlensystem**, das nur die Zahlen 0 und 1 verwendet. Im binären System werden alle Daten als Kombinationen dieser beiden Zahlen dargestellt – z. B. Buchstaben, Zahlen, Bilder und sogar Töne.
 
 > **Wusstest du?** Der Computer kann mit den Werten 0 und 1 arbeiten, weil er aus vielen winzigen elektrischen Schaltern besteht, die nur "an" (1) oder "aus" (0) sein können.
-
-#### 📝 **Aufgabe 2.1:**  
-Erkläre, warum Computer das binäre Zahlensystem verwenden. Schreibe in eigenen Worten auf, warum es einfacher für Computer ist, nur mit 0 und 1 zu arbeiten.
-
 ---
 
 ### 2.2 Winkeralphabet, Morsecode, Caesar-Verschlüsselung
@@ -267,10 +263,39 @@ Erkläre, warum Computer das binäre Zahlensystem verwenden. Schreibe in eigenen
 - **Morsecode**: Ein Code aus kurzen und langen Signalen (Punkten und Strichen), der genutzt wurde, um Nachrichten über Funk zu senden.
 - **Caesar-Verschlüsselung**: Ein Verschlüsselungsverfahren, das jeden Buchstaben um eine feste Anzahl Stellen im Alphabet verschiebt.
 
-> **Beispiel zur Caesar-Verschlüsselung**: Wenn der Schlüssel 3 ist, wird aus "A" das "D", aus "B" das "E" usw.
+--- 
 
-#### 📝 **Aufgabe 2.2:**  
-Schreibe deinen Namen im Morsecode und verschlüssele ihn anschließend mit der Caesar-Verschlüsselung, indem du jeden Buchstaben um zwei Stellen im Alphabet verschiebst.
+# Einführung ins Winkeralphabet
+
+Das **Winkeralphabet** ist eine Methode der visuellen Kommunikation, die zur Übertragung von Nachrichten über größere Distanzen genutzt wird. Ursprünglich fand es Anwendung in der Schifffahrt und im Militär. Beim Winkeralphabet hält eine Person zwei Fahnen und zeigt diese in bestimmten Positionen, um verschiedene Buchstaben zu signalisieren. Jede Position der Fahnen repräsentiert dabei einen bestimmten Buchstaben des Alphabets.
+
+## Funktionsweise des Winkeralphabets
+
+- Es gibt **acht Grundpositionen** für jede Hand.
+- Jede Position stellt eine Kombination dar, die einem Buchstaben entspricht.
+- Die Winkpositionen sind in einem 45-Grad-Winkel verteilt.
+- Um eine Nachricht zu senden, bewegt die Person die Fahnen schnell in die Positionen, die die Buchstaben der Nachricht repräsentieren.
+
+### Beispielhafte Winkepositionen für einige Buchstaben:
+
+- **Position für den Buchstaben A**: Linke Hand oben links, rechte Hand oben rechts
+- **Position für den Buchstaben B**: Linke Hand direkt links, rechte Hand direkt rechts
+- **Position für den Buchstaben S**: Linke Hand unten links, rechte Hand oben rechts
+
+---
+
+## Quizaufgabe im Winkeralphabet (LiaScript)
+
+Teste dein Wissen über das Winkeralphabet mit der folgenden Quizfrage.
+
+#### Quiz zum Winkeralphabet
+
+Wie würdest du den Buchstaben "S" mit dem Winkeralphabet darstellen?
+
+1. [ ] Linke Hand unten, rechte Hand oben
+2. [ ] Linke Hand links, rechte Hand rechts
+3. [x] Linke Hand unten links, rechte Hand oben rechts
+4. [ ] Linke Hand oben links, rechte Hand unten rechts
 
 ---
 
