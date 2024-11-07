@@ -2,6 +2,8 @@
 
 Willkommen zum Onlinekurs für Informatik in der 6. Klasse! In diesem Kurs lernst du die Grundlagen der Informatik kennen: von den Grundlagen zu Informationen und Daten bis hin zu spannenden Themen wie Programmierung und künstliche Intelligenz.
 
+![Image of a Computer](computer_01.jpg)
+
 ---
 
 ## 1. Informationen und Daten
