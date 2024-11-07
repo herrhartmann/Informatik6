@@ -66,13 +66,71 @@ Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut 
 
 ---
 
-### 1.2 Verwaltung von Dateien
+## 1.2 Verwaltung von Dateien
 
 > **Info:** Dateien sind digitale Sammlungen von Informationen, die wir auf Computern speichern. Alles, was du am Computer erstellst oder speicherst – seien es Texte, Bilder oder Musik – wird als Datei abgelegt.
 
-Damit wir die vielen Dateien auf einem Computer gut organisieren können, werden sie in einem **Dateisystem** gespeichert. Hier können wir Ordner und Unterordner anlegen, um Dateien nach Kategorien oder Themen zu ordnen, ähnlich wie ein Schrank mit Schubladen und Fächern.
+Die Verwaltung von Dateien ist ein wichtiger Teil der Arbeit am Computer. Dateien enthalten alle Informationen, die du speicherst: Texte, Bilder, Videos, Musik und vieles mehr. Um die Übersicht zu behalten, ist es wichtig, Dateien gut zu organisieren und zu verwalten.
 
-Ein gutes Dateisystem hilft uns, Dateien schnell wiederzufinden. Jedes Dateisystem hat auch bestimmte Regeln für die Benennung und Organisation von Dateien.
+### Was sind Dateien?
+
+Eine **Datei** ist ein digitaler Behälter für Daten. Jedes Dokument, Foto oder Video, das du auf deinem Computer speicherst, ist eine Datei. Dateien haben immer einen **Namen** und eine **Erweiterung** (z. B. `.txt`, `.jpg` oder `.mp3`), die dir und dem Computer sagt, um welchen Dateityp es sich handelt.
+
+### Wichtige Dateitypen
+
+- **Textdateien** (.txt, .docx) – Für geschriebene Texte, wie Berichte, Aufsätze oder Notizen.
+- **Bilddateien** (.jpg, .png) – Für Fotos und Grafiken.
+- **Audiodateien** (.mp3, .wav) – Für Musik oder Sprachaufnahmen.
+- **Videodateien** (.mp4, .avi) – Für Filme und Videos.
+
+## Ordner und Dateien organisieren
+
+Damit du deine Dateien leicht findest, solltest du sie in **Ordnern** organisieren. Ein Ordner ist wie ein digitales Ablagefach, in dem du ähnliche Dateien zusammen speichern kannst.
+
+### Beispiel für eine Ordnerstruktur
+
+Stell dir vor, du erstellst Ordner für die Schule:
+
+- **Schule**
+  - **Mathematik**
+    - Aufgaben_2024.docx
+    - Formeln.png
+  - **Deutsch**
+    - Aufsatz.docx
+    - Buchnotizen.txt
+  - **Biologie**
+    - Projekt_Pflanzen.pptx
+
+Mit dieser Struktur findest du schnell deine Dateien, weil du weißt, in welchem Ordner sie gespeichert sind.
+
+## Dateien umbenennen, kopieren und verschieben
+
+Um Dateien gut zu verwalten, kannst du sie **umbenennen**, **kopieren** und **verschieben**.
+
+- **Umbenennen**: Wenn du den Namen einer Datei änderst, hilft dir das, die Datei leichter zu finden. Zum Beispiel könntest du "Aufsatz.docx" in "Deutsch_Aufsatz_ThemaXY.docx" umbenennen.
+- **Kopieren**: Wenn du eine Datei an einem anderen Ort brauchst, aber das Original behalten möchtest, kannst du sie kopieren.
+- **Verschieben**: Verschieben bedeutet, die Datei in einen anderen Ordner zu legen, ohne eine Kopie zu erstellen.
+
+## Dateien löschen
+
+Wenn du eine Datei nicht mehr brauchst, kannst du sie **löschen**. Gelöschte Dateien werden oft zuerst in den Papierkorb verschoben. Dort bleiben sie, bis du den Papierkorb leerst – dann sind sie wirklich gelöscht.
+
+### Achtung beim Löschen!
+
+Gelöschte Dateien können nicht immer wiederhergestellt werden. Überlege also gut, bevor du eine Datei löschst, oder sichere sie vorher.
+
+## Wichtige Tipps für die Dateiverwaltung
+
+1. **Sinnvolle Namen verwenden**: Gebe deinen Dateien Namen, die den Inhalt beschreiben.
+2. **Ordnerstruktur nutzen**: Lege eine klare Ordnerstruktur an, die du verstehst und leicht durchsuchen kannst.
+3. **Regelmäßig aufräumen**: Lösche alte oder unnötige Dateien, um Platz zu sparen.
+4. **Dateien sichern (Backup)**: Speichere wichtige Dateien auf einem USB-Stick, einer externen Festplatte oder in der Cloud, um sie bei Verlust wiederherstellen zu können.
+
+## Warum ist die Verwaltung von Dateien wichtig?
+
+Eine gute Dateiverwaltung hilft dir, schnell die Dateien zu finden, die du brauchst. Sie spart Zeit und macht deinen Computer übersichtlicher. Das ist besonders praktisch für die Schule oder die Arbeit, wo du oft mit vielen verschiedenen Dateien zu tun hast.
+
+**Zusammengefasst**: Die Verwaltung von Dateien bedeutet, dass du Dateien organisierst, umbenennst, kopierst, verschiebst und manchmal auch löschst, damit du schnell und effizient arbeiten kannst!
 
 #### 📝 **Aufgabe 1.2:**  
 Erstelle eine sinnvolle Ordnerstruktur auf deinem Computer. Zum Beispiel: "Schule" > "Informatik" > "Projekte". Lege eine neue Datei an und speichere sie in diesem Ordner. Schreibe auf, wie deine Ordner heißen und warum du diese Struktur gewählt hast.
