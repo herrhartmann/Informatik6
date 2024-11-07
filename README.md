@@ -88,6 +88,56 @@ Beschreibe einen Alltagsgegenstand, der das EVA-Prinzip verwendet (z. B. eine Ka
 
 ---
 
+### Binärzahlen einfach erklärt
+
+Binärzahlen sind ein Zahlensystem, das nur **zwei** Ziffern verwendet: **0** und **1**. Während wir im Alltag das **Dezimalsystem** (mit den Ziffern 0 bis 9) nutzen, arbeiten Computer und elektronische Geräte mit Binärzahlen, weil sie einfacher für Maschinen zu verarbeiten sind.
+
+**Warum nur 0 und 1?**
+
+Computer können in ihrer Elektronik nur zwei Zustände unterscheiden:
+- **Ein** (Strom fließt) – das entspricht der **1**
+- **Aus** (kein Strom fließt) – das entspricht der **0**
+
+Durch diese Zustände können Computer Daten speichern und Berechnungen durchführen.
+
+**Wie funktionieren Binärzahlen?**
+
+Im Dezimalsystem ist jede Stelle einer Zahl ein Vielfaches von **10**:
+- Die Zahl **123** bedeutet: \(1 \times 100 + 2 \times 10 + 3 \times 1\)
+
+Im Binärsystem ist jede Stelle ein Vielfaches von **2**:
+- Die Zahl **101** im Binärsystem bedeutet:
+  \(1 \times 4 + 0 \times 2 + 1 \times 1 = 5\)
+
+| Dezimalzahl | Binärzahl |
+| ----------- | --------- |
+| 0           | 0         |
+| 1           | 1         |
+| 2           | 10        |
+| 3           | 11        |
+| 4           | 100       |
+| 5           | 101       |
+
+**So wandelst du Dezimalzahlen in Binärzahlen um** 
+
+1. **Teilen durch 2**: Teile die Zahl immer durch 2 und schreibe den Rest auf.
+2. **Von unten nach oben lesen**: Wenn du nicht weiter teilen kannst, nimm die Reste und lies sie von unten nach oben.
+
+**Beispiel: Die Zahl 13 ins Binärsystem umwandeln**
+
+1. 13 : 2 = 6 Rest **1**
+2. 6 : 2 = 3 Rest **0**
+3. 3 : 2 = 1 Rest **1**
+4. 1 : 2 = 0 Rest **1**
+
+Ergebnis (von unten nach oben gelesen): **1101**
+
+**Warum sind Binärzahlen wichtig?**
+
+Binärzahlen sind die Grundlage aller modernen Computertechnologien! Alles, was ein Computer macht – egal ob ein Bild anzeigen, ein Lied abspielen oder ein Spiel laufen lassen – basiert auf Binärzahlen.
+
+---
+
 ## 2. Daten und Codierung
 
 ### 2.1 Codes und Daten
