@@ -6,23 +6,63 @@ Willkommen zum Onlinekurs für Informatik in der 6. Klasse! In diesem Kurs lerns
 
 ---
 
-## 1. Informationen und Daten
-
-### 1.1 Computer als Informatiksysteme
-
+## 1. Informatiksysteme? Informationen und Daten
+ 
 > **Definition:** Ein Informatiksystem ist ein System, das zur Speicherung, Verarbeitung und Übertragung von Informationen und Daten genutzt wird.
 
-Ein Computer ist das Herzstück der Informatik und besteht aus zwei Hauptkomponenten: **Hardware** und **Software**.
+Ein **Computer** ist viel mehr als nur ein Gerät zum Spielen oder Schreiben von Texten. In der Informatik betrachten wir den Computer als ein **Informatiksystem**, das Daten verarbeiten, speichern und weitergeben kann. Lass uns anschauen, wie so ein System funktioniert und aus welchen Teilen es besteht.
 
-- **Hardware**: Alle physischen Teile des Computers, also alles, was man anfassen kann, z. B. die Tastatur, der Bildschirm, das Gehäuse und das Mainboard im Inneren.
-- **Software**: Die Programme, die den Computer zum Arbeiten bringen, wie ein Betriebssystem (z. B. Windows, macOS oder Linux) und Anwendungssoftware (z. B. Textverarbeitungsprogramme oder Spiele).
+## Was ist ein Informatiksystem?
 
-Die Hardware stellt die notwendigen Ressourcen zur Verfügung, damit die Software arbeiten kann. Software wiederum steuert die Hardware und ermöglicht es uns, mit dem Computer zu arbeiten.
+Ein **Informatiksystem** ist eine Kombination aus **Hardware** (den physischen Teilen) und **Software** (den Programmen). Zusammen ermöglichen sie dem Computer, verschiedene Aufgaben zu erledigen, wie Berechnungen durchzuführen, Musik abzuspielen oder Spiele zu starten.
+
+### Die Bauteile eines Computers
+
+Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten. Hier sind die wichtigsten:
+
+1. **Prozessor (CPU)**  
+   Der Prozessor, auch CPU genannt, ist das "Gehirn" des Computers. Er führt alle Berechnungen und Aufgaben aus, die ein Programm ihm vorgibt. Je schneller der Prozessor, desto schneller kann der Computer arbeiten.
+
+2. **Arbeitsspeicher (RAM)**  
+   Der Arbeitsspeicher ist der Platz, an dem der Computer Daten vorübergehend speichert, die er gerade verwendet. Je mehr RAM, desto mehr Daten kann der Computer gleichzeitig verarbeiten.
+
+3. **Festplatte oder SSD**  
+   Die Festplatte oder SSD ist der Langzeitspeicher des Computers. Hier werden Dateien, Programme und das Betriebssystem gespeichert. Ohne Speicher könnte der Computer keine Daten behalten, wenn er ausgeschaltet wird.
+
+4. **Grafikkarte**  
+   Die Grafikkarte ist für die Anzeige von Bildern und Videos verantwortlich. Sie berechnet, was auf dem Bildschirm zu sehen ist. Besonders bei Spielen oder Videos ist eine gute Grafikkarte wichtig.
+
+5. **Eingabegeräte**  
+   Dazu gehören Geräte wie die **Tastatur** und die **Maus**. Mit ihnen gibst du dem Computer Anweisungen, zum Beispiel beim Tippen oder Klicken.
+
+6. **Ausgabegeräte**  
+   Bildschirm und Drucker sind typische Ausgabegeräte. Sie zeigen dir die Ergebnisse der Arbeit des Computers.
+
+### Hardware und Software
+
+- **Hardware**: Alles, was man am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur, gehört zur Hardware.
+- **Software**: Programme und Daten, die auf der Hardware laufen, nennt man Software. Dazu zählen das Betriebssystem (wie Windows oder macOS) und alle Programme (wie Spiele, Textverarbeitungsprogramme oder der Webbrowser).
+
+## Wie funktionieren Informatiksysteme?
+
+Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Ausgabe**:
+
+1. **Eingabe**: Du gibst Informationen in den Computer ein, zum Beispiel durch Tippen auf der Tastatur oder Bewegen der Maus.
+2. **Verarbeitung**: Der Computer verarbeitet diese Informationen mithilfe von Hardware und Software. Der Prozessor berechnet zum Beispiel Zahlen oder bearbeitet Texte.
+3. **Ausgabe**: Das Ergebnis der Berechnung wird angezeigt, entweder auf dem Bildschirm oder durch ein anderes Ausgabegerät.
+
+### Beispiel: Ein Spiel spielen
+
+- **Eingabe**: Du drückst Tasten und bewegst die Maus, um eine Figur zu steuern.
+- **Verarbeitung**: Der Prozessor und die Grafikkarte berechnen, wie die Figur sich bewegt und was im Spiel passieren soll.
+- **Ausgabe**: Die Grafikkarte zeigt das Ergebnis der Berechnung auf dem Bildschirm, damit du die Bewegung deiner Figur siehst.
+
+## Warum sind Informatiksysteme wichtig?
+
+Informatiksysteme sind heute überall: in Smartphones, Laptops, Tablets und sogar in Autos oder Kühlschränken. Sie helfen uns im Alltag, Daten zu speichern, zu kommunizieren und Aufgaben zu automatisieren. Ohne Informatiksysteme wäre die Welt, wie wir sie heute kennen, nicht möglich.
 
 #### 📝 **Aufgabe 1.1:**  
 Finde heraus, welche Hardwarekomponenten in dem Computer im Klassenraum verbaut sind (sollte kein Computer im Klassenraum stehen, schaue dir das Bild an). Liste sie auf und erkläre, welche Funktion sie jeweils haben. Beispiele sind die CPU (Prozessor), der Arbeitsspeicher (RAM) und die Festplatte (Speicher).
-
-
 
 ---
 
