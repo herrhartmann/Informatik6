@@ -294,7 +294,7 @@ Binärzahlen sind die Grundlage aller modernen Computertechnologien! Alles, was 
 ### Aufgaben
 
 Löse die Aufgaben auf Inf-Schule:
-- [Inf-Schule]([https://raw.githubusercontent.com/LiaScript/docs/master/README.md](https://inf-schule.de/information/darstellunginformation)
+- [Inf-Schule](https://inf-schule.de/information/darstellunginformation)
 
 ---
 
