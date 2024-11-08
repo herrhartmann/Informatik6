@@ -1,3 +1,16 @@
+<!--
+
+author:   Mr. Hartmann
+
+email:    hartmann@uber.space
+
+version:  0.0.1
+
+language: de
+
+-->
+
+
 # Informatikkurs für die 6. Klasse
 
 Willkommen zum Onlinekurs für Informatik in der 6. Klasse! In diesem Kurs lernst du die Grundlagen der Informatik kennen: von den Grundlagen zu Informationen und Daten bis hin zu spannenden Themen wie Programmierung und künstliche Intelligenz.
