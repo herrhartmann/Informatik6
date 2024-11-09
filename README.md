@@ -114,7 +114,7 @@ Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten.
 
 ---
 
-🖥️ Was ist Software?
+### 🖥️ Was ist Software?
 Software besteht aus Programmen und Daten, die auf der Hardware laufen. Ihr könnt Software nicht anfassen, aber sie ist dafür verantwortlich, dass euer Computer funktioniert und ihr ihn benutzen könnt.
 
 **Welche der folgenden Dinge gehören zur Hardware? Markiere die richtigen Antworten:**
