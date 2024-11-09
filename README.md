@@ -88,12 +88,70 @@ Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten.
 
 7. **Ausgabegeräte**  
    Bildschirm und Drucker sind typische Ausgabegeräte. Sie zeigen dir die Ergebnisse der Arbeit des Computers.
+---
 
-### Hardware und Software
+### 🖥️ Beispiele für Hardware:
 
-- **Hardware**: Alles, was man am Computer anfassen kann, wie der Prozessor, der Bildschirm oder die Tastatur, gehört zur Hardware.
-- **Software**: Programme und Daten, die auf der Hardware laufen, nennt man Software. Dazu zählen das Betriebssystem (wie Windows oder macOS) und alle Programme (wie Spiele, Textverarbeitungsprogramme oder der Webbrowser).
+{{1-2}}
+Was gehört zur Hardware?
 
+1. Prozessor (CPU) 💡
+   * Das "Gehirn" des Computers. Es verarbeitet alle Befehle.
+
+2. Bildschirm (Monitor) 📺
+   * Zeigt alles an, was ihr auf dem Computer sehen wollt.
+
+3. Tastatur ⌨️
+   * Damit könnt ihr Texte schreiben und Befehle eingeben.
+
+4. Maus 🖱️
+   * Zum Zeigen und Klicken auf Dinge auf dem Bildschirm.
+
+5. Drucker 🖨️
+   * Druckt eure Dokumente auf Papier aus.
+
+6. Lautsprecher 🔊
+   * Gibt Geräusche und Musik wieder.
+
+---
+
+🖥️ Was ist Software?
+Software besteht aus Programmen und Daten, die auf der Hardware laufen. Ihr könnt Software nicht anfassen, aber sie ist dafür verantwortlich, dass euer Computer funktioniert und ihr ihn benutzen könnt.
+
+{{3-4}}
+Welche der folgenden Dinge gehören zur Hardware? Markiere die richtigen Antworten:
+
+- [ ] Word (ein Textverarbeitungsprogramm)
+- [x] Festplatte (Speichert Daten)
+- [x] Grafikkarte (Verarbeitet Bilder)
+- [ ] Minecraft (ein Computerspiel)
+
+{{5-6}}
+Was gehört zur Software?
+
+1. Betriebssystem (OS) 🛠️
+   * Das wichtigste Programm auf eurem Computer. Beispiele sind **Windows**, **macOS** oder **Linux**.
+  
+2. Textverarbeitungsprogramme ✍️
+   * Damit könnt ihr Texte schreiben, z.B. **Microsoft Word** oder **Google Docs**.
+  
+3. Spiele 🎮
+   * Macht Spaß und hilft beim Lernen. Ein Beispiel ist **Minecraft**.
+  
+4. Webbrowser 🌐
+   * Damit könnt ihr im Internet surfen, z.B. **Google Chrome** oder **Firefox**.
+
+5. Musik-Player 🎵
+   * Spielt Musik ab, z.B. **Spotify** oder **Apple Music**.
+
+{{7-8}}
+Welche der folgenden Dinge gehören zur Software? Markiere die richtigen Antworten:
+
+- [x] Webbrowser (zum Surfen im Internet)
+- [ ] Bildschirm (zeigt Bilder an)
+- [x] Computerspiel (wie Fortnite)
+- [ ] Tastatur (zum Eingeben von Text)
+  
 ### Wie funktionieren Informatiksysteme?
 
 Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Ausgabe**:
