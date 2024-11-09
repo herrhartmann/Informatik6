@@ -92,8 +92,7 @@ Ein Computer hat mehrere wichtige Bauteile, die alle zusammenarbeiten.
 
 ### 🖥️ Beispiele für Hardware:
 
-{{1-2}}
-Was gehört zur Hardware?
+**Was gehört zur Hardware?**
 
 1. Prozessor (CPU) 💡
    * Das "Gehirn" des Computers. Es verarbeitet alle Befehle.
@@ -118,16 +117,15 @@ Was gehört zur Hardware?
 🖥️ Was ist Software?
 Software besteht aus Programmen und Daten, die auf der Hardware laufen. Ihr könnt Software nicht anfassen, aber sie ist dafür verantwortlich, dass euer Computer funktioniert und ihr ihn benutzen könnt.
 
-{{3-4}}
-Welche der folgenden Dinge gehören zur Hardware? Markiere die richtigen Antworten:
+**Welche der folgenden Dinge gehören zur Hardware? Markiere die richtigen Antworten:**
 
-- [ ] Word (ein Textverarbeitungsprogramm)
-- [x] Festplatte (Speichert Daten)
-- [x] Grafikkarte (Verarbeitet Bilder)
-- [ ] Minecraft (ein Computerspiel)
+- [( )] Word (ein Textverarbeitungsprogramm)
+- [(x)] Festplatte (Speichert Daten)
+- [(x)] Grafikkarte (Verarbeitet Bilder)
+- [( )] Minecraft (ein Computerspiel)
 
-{{5-6}}
-Was gehört zur Software?
+
+**Was gehört zur Software?**
 
 1. Betriebssystem (OS) 🛠️
    * Das wichtigste Programm auf eurem Computer. Beispiele sind **Windows**, **macOS** oder **Linux**.
@@ -144,13 +142,12 @@ Was gehört zur Software?
 5. Musik-Player 🎵
    * Spielt Musik ab, z.B. **Spotify** oder **Apple Music**.
 
-{{7-8}}
-Welche der folgenden Dinge gehören zur Software? Markiere die richtigen Antworten:
+**Welche der folgenden Dinge gehören zur Software? Markiere die richtigen Antworten:**
 
-- [x] Webbrowser (zum Surfen im Internet)
-- [ ] Bildschirm (zeigt Bilder an)
-- [x] Computerspiel (wie Fortnite)
-- [ ] Tastatur (zum Eingeben von Text)
+- [(x)] Webbrowser (zum Surfen im Internet)
+- [( )] Bildschirm (zeigt Bilder an)
+- [(x)] Computerspiel (wie Fortnite)
+- [( )] Tastatur (zum Eingeben von Text)
   
 ### Wie funktionieren Informatiksysteme?
 
