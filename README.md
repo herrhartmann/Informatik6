@@ -486,7 +486,7 @@ Algorithmen sind also überall in unserem Alltag zu finden, auch wenn wir sie ni
 
 ---
 
-### 3.2 Erste Schritte in Scratch
+## 3.2 Erste Schritte in Scratch
 
 Scratch ist eine visuelle Programmiersprache, die das Programmieren auf spielerische Weise näherbringt. In Scratch fügst du verschiedene **Blöcke** zusammen, um Figuren zu steuern, Animationen zu erstellen und einfache Programme zu entwickeln.
 
