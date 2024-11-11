@@ -131,7 +131,7 @@ Software besteht aus Programmen und Daten, die auf der Hardware laufen. Ihr kön
    * Das wichtigste Programm auf eurem Computer. Beispiele sind **Windows**, **macOS** oder **Linux**.
   
 2. Textverarbeitungsprogramme ✍️
-   * Damit könnt ihr Texte schreiben, z.B. **Microsoft Word** oder **Google Docs**.
+   * Damit könnt ihr Texte schreiben, z.B. **Microsoft Word** oder **Libre Office**.
   
 3. Spiele 🎮
    * Macht Spaß und hilft beim Lernen. Ein Beispiel ist **Minecraft**.
@@ -157,7 +157,7 @@ Ein Informatiksystem arbeitet nach dem Prinzip **Eingabe – Verarbeitung – Au
 2. **Verarbeitung**: Der Computer verarbeitet diese Informationen mithilfe von Hardware und Software. Der Prozessor berechnet zum Beispiel Zahlen oder bearbeitet Texte.
 3. **Ausgabe**: Das Ergebnis der Berechnung wird angezeigt, entweder auf dem Bildschirm oder durch ein anderes Ausgabegerät.
 
-### Beispiel: Ein Spiel spielen
+Beispiel: Ein Spiel spielen:
 
 - **Eingabe**: Du drückst Tasten und bewegst die Maus, um eine Figur zu steuern.
 - **Verarbeitung**: Der Prozessor und die Grafikkarte berechnen, wie die Figur sich bewegt und was im Spiel passieren soll.
@@ -189,7 +189,7 @@ Die Verwaltung von Dateien ist ein wichtiger Teil der Arbeit am Computer. Dateie
 
 Eine **Datei** ist ein digitaler Behälter für Daten. Jedes Dokument, Foto oder Video, das du auf deinem Computer speicherst, ist eine Datei. Dateien haben immer einen **Namen** und eine **Erweiterung** (z. B. `.txt`, `.jpg` oder `.mp3`), die dir und dem Computer sagt, um welchen Dateityp es sich handelt.
 
-### Wichtige Dateitypen
+**Wichtige Dateitypen**
 
 - **Textdateien** (.txt, .docx) – Für geschriebene Texte, wie Berichte, Aufsätze oder Notizen.
 - **Bilddateien** (.jpg, .png) – Für Fotos und Grafiken.
@@ -404,12 +404,85 @@ Wie würdest du den Buchstaben "S" mit dem Winkeralphabet darstellen?
 
 ### 3.1 Algorithmen im Alltag
 
-Ein **Algorithmus** ist eine Schritt-für-Schritt-Anleitung, um ein Problem zu lösen oder eine Aufgabe zu erledigen. Algorithmen finden wir überall im Alltag, zum Beispiel in einer Kochanleitung oder beim Aufbau eines Möbelstücks.
+**Algorithmen im Alltag: Was steckt dahinter?**
 
-> **Beispiel für einen Algorithmus:** Wenn du einen Kuchen backst, folgst du einem Rezept, das dir genau sagt, welche Schritte du in welcher Reihenfolge ausführen musst.
+---
 
-### 📝 **Aufgabe**  
-Schreibe einen Algorithmus, um ein Butterbrot zu schmieren. Verwende dabei klare und logische Schritte und achte darauf, dass alle Anweisungen genau aufeinander folgen.
+**Was ist ein Algorithmus überhaupt?**
+
+Stell dir vor, du möchtest ein leckeres Rezept nachkochen, zum Beispiel Pfannkuchen. Du brauchst dafür Zutaten wie Mehl, Milch und Eier, und du musst genau wissen, wie du sie miteinander mischen sollst, damit die Pfannkuchen am Ende richtig schmecken. Die Anleitung, die dir Schritt für Schritt erklärt, was du tun musst, damit das Rezept gelingt, nennt man **Algorithmus**.
+
+Ein **Algorithmus** ist also eine Abfolge von klaren Anweisungen oder Schritten, die du befolgen musst, um ein bestimmtes Ziel zu erreichen. Er hilft uns, Probleme zu lösen, Aufgaben zu erledigen und Dinge effizienter zu machen.
+
+---
+
+**Beispiele für Algorithmen im Alltag**
+
+Du wirst überrascht sein, wie oft du im Alltag Algorithmen nutzt, ohne es zu merken! Hier sind einige Beispiele:
+
+### 1. **Morgens Zähneputzen**
+Wenn du morgens aufstehst, folgst du ganz automatisch einer Reihe von Schritten, um deine Zähne zu putzen:
+   - **Schritt 1**: Zahnbürste nehmen.
+   - **Schritt 2**: Zahnpasta auf die Bürste auftragen.
+   - **Schritt 3**: Zähne für 2 Minuten putzen.
+   - **Schritt 4**: Mund ausspülen und Zahnbürste weglegen.
+
+Dieser Ablauf ist ein simpler Algorithmus, der dir hilft, deine Zähne sauber zu halten.
+
+### 2. **Weg zur Schule finden**
+Angenommen, du gehst jeden Morgen zu Fuß zur Schule. Du weißt genau, welche Straßen du nehmen musst und an welcher Ampel du abbiegen musst. Dein Weg zur Schule ist ein Algorithmus:
+   - **Schritt 1**: Haus verlassen und nach links abbiegen.
+   - **Schritt 2**: Zwei Straßen geradeaus gehen.
+   - **Schritt 3**: An der Kreuzung rechts abbiegen.
+   - **Schritt 4**: Die Straße überqueren, wenn die Ampel grün ist.
+   - **Schritt 5**: Die Schule betreten.
+
+Wenn du dich immer an diese Schritte hältst, kommst du sicher zur Schule.
+
+### 3. **Apps auf deinem Smartphone**
+Auch dein Handy nutzt ständig Algorithmen. Wenn du z. B. YouTube benutzt, um ein Video anzusehen, entscheidet ein Algorithmus, welche Videos dir vorgeschlagen werden. Er schaut sich an, welche Videos du dir gerne ansiehst, und sucht ähnliche Videos heraus, die dir auch gefallen könnten. Das Ziel ist, dir nur solche Videos anzuzeigen, die für dich interessant sind.
+
+---
+
+**Wie funktionieren Algorithmen?**
+
+Ein Algorithmus arbeitet ähnlich wie eine Art **Kochrezept** oder **Bauanleitung**. Die Anweisungen müssen **genau** und **logisch** sein, damit der Computer oder eine Maschine sie verstehen kann. Diese Anweisungen bestehen oft aus folgenden Bausteinen:
+
+1. **Eingaben**: Das sind die Informationen oder Daten, die der Algorithmus braucht, um zu funktionieren.
+   - Beispiel: Deine Lieblingsmusik auf Spotify.
+
+2. **Verarbeitung**: Hier verarbeitet der Algorithmus die Eingaben, um ein Ergebnis zu berechnen oder zu finden.
+   - Beispiel: Der Algorithmus sucht ähnliche Lieder heraus, die dir gefallen könnten.
+
+3. **Ausgaben**: Am Ende gibt der Algorithmus ein Ergebnis oder eine Lösung aus.
+   - Beispiel: Eine Liste von Liedern, die du wahrscheinlich mögen wirst.
+
+---
+
+**Warum sind Algorithmen so wichtig?**
+
+Algorithmen helfen uns, Probleme schnell und effizient zu lösen. Besonders Computer und Maschinen brauchen sie, um zu funktionieren. Ohne Algorithmen könnten viele Dinge in unserem Alltag nicht so einfach und bequem ablaufen:
+
+- **Google** nutzt Algorithmen, um dir die besten Suchergebnisse anzuzeigen.
+- **Online-Shops** wie Amazon verwenden Algorithmen, um dir Produkte vorzuschlagen, die dir gefallen könnten.
+- **Navigations-Apps** wie Google Maps berechnen mithilfe von Algorithmen den schnellsten Weg zu deinem Ziel.
+
+---
+
+**Ein kleines Experiment: Ein eigener Algorithmus**
+
+Jetzt kannst du selbst ausprobieren, wie ein einfacher Algorithmus funktioniert. Stell dir vor, du möchtest eine bestimmte Seite in deinem Mathebuch finden. Hier ist ein Algorithmus, der dir hilft:
+
+1. **Öffne dein Buch in der Mitte**.
+2. **Wenn die Seite zu groß ist**, blättere eine bestimmte Anzahl Seiten nach links.
+3. **Wenn die Seite zu klein ist**, blättere nach rechts.
+4. Wiederhole diesen Vorgang, bis du die richtige Seite gefunden hast.
+
+Du hast gerade einen **Suchalgorithmus** verwendet, der dir hilft, die Seite schneller zu finden, als wenn du Seite für Seite durchblättern würdest!
+
+Algorithmen sind also überall in unserem Alltag zu finden, auch wenn wir sie nicht immer bewusst wahrnehmen. Sie helfen uns, Aufgaben schneller und effizienter zu erledigen – egal, ob beim Zähneputzen, auf dem Weg zur Schule oder beim Surfen im Internet. Wenn du das nächste Mal ein Rezept kochst oder eine Route planst, denk daran: Du folgst gerade einem Algorithmus!
+
+**Frage an dich**: Wo könntest du heute noch Algorithmen in deinem Leben entdecken?
 
 ---
 
