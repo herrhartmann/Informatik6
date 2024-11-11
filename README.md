@@ -420,7 +420,7 @@ Ein **Algorithmus** ist also eine Abfolge von klaren Anweisungen oder Schritten,
 
 Du wirst überrascht sein, wie oft du im Alltag Algorithmen nutzt, ohne es zu merken! Hier sind einige Beispiele:
 
-### 1. **Morgens Zähneputzen**
+1. **Morgens Zähneputzen**
 Wenn du morgens aufstehst, folgst du ganz automatisch einer Reihe von Schritten, um deine Zähne zu putzen:
    - **Schritt 1**: Zahnbürste nehmen.
    - **Schritt 2**: Zahnpasta auf die Bürste auftragen.
@@ -429,7 +429,7 @@ Wenn du morgens aufstehst, folgst du ganz automatisch einer Reihe von Schritten,
 
 Dieser Ablauf ist ein simpler Algorithmus, der dir hilft, deine Zähne sauber zu halten.
 
-### 2. **Weg zur Schule finden**
+2. **Weg zur Schule finden**
 Angenommen, du gehst jeden Morgen zu Fuß zur Schule. Du weißt genau, welche Straßen du nehmen musst und an welcher Ampel du abbiegen musst. Dein Weg zur Schule ist ein Algorithmus:
    - **Schritt 1**: Haus verlassen und nach links abbiegen.
    - **Schritt 2**: Zwei Straßen geradeaus gehen.
@@ -439,7 +439,7 @@ Angenommen, du gehst jeden Morgen zu Fuß zur Schule. Du weißt genau, welche St
 
 Wenn du dich immer an diese Schritte hältst, kommst du sicher zur Schule.
 
-### 3. **Apps auf deinem Smartphone**
+3. **Apps auf deinem Smartphone**
 Auch dein Handy nutzt ständig Algorithmen. Wenn du z. B. YouTube benutzt, um ein Video anzusehen, entscheidet ein Algorithmus, welche Videos dir vorgeschlagen werden. Er schaut sich an, welche Videos du dir gerne ansiehst, und sucht ähnliche Videos heraus, die dir auch gefallen könnten. Das Ziel ist, dir nur solche Videos anzuzeigen, die für dich interessant sind.
 
 ---
