@@ -463,9 +463,9 @@ Ein Algorithmus arbeitet ähnlich wie eine Art **Kochrezept** oder **Bauanleitun
 
 Algorithmen helfen uns, Probleme schnell und effizient zu lösen. Besonders Computer und Maschinen brauchen sie, um zu funktionieren. Ohne Algorithmen könnten viele Dinge in unserem Alltag nicht so einfach und bequem ablaufen:
 
-- **Google** nutzt Algorithmen, um dir die besten Suchergebnisse anzuzeigen.
+- **DuckGoGo oder Google** nutzen Algorithmen, um dir die besten Suchergebnisse anzuzeigen.
 - **Online-Shops** wie Amazon verwenden Algorithmen, um dir Produkte vorzuschlagen, die dir gefallen könnten.
-- **Navigations-Apps** wie Google Maps berechnen mithilfe von Algorithmen den schnellsten Weg zu deinem Ziel.
+- **Navigations-Apps** wie Organic Maps oder Google Maps berechnen mithilfe von Algorithmen den schnellsten Weg zu deinem Ziel.
 
 ---
 
